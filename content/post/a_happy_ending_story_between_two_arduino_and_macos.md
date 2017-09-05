@@ -15,7 +15,7 @@ I got a new MacBook Pro almost one year ago. It came with macOS Sierra pre-insta
 1. I remembered the pain I suffered the last time I updated my OS to Sierra. I spent hours reinstalling the FTDI Drivers.
 2. I was close to face a new world of dangerous and unfamiliar [dongles](https://www.youtube.com/watch?v=-XSC_UG5_kU). My first "*Fuck, I knew it*" came out of my mouth at the speed of a [Eurofighter](https://www.raf.mod.uk/equipment/typhoon.cfm).
 
-Yes, you are right. I did not work.
+Yes, you are right. It did not work.
 
 I reinstalled the **FTDI drivers** several times, restarted, and disabled the System Integrity Protection (**csrutil**) with no success. Therefore, I bought the original Apple USB converter thinking that my cheap dongle was not providing the needed output power. No success. My computer did not recognise Arduino. Not even as unknown device.
 
