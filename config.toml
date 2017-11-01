@@ -42,7 +42,7 @@ enableRobotsTXT = true
 [params.intro]
     header    = "Sergio Moya"
     paragraph = "Once upon a time(), or not."
-    about     = "HipHop movement and Soul music lover. Software Engineer. PHP Barcelona Conference organiser. Working at ExoClick, Barcelona."
+    about     = "HipHop movement and Soul music lover. #gopher and Software Engineer at @newrelic."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
