@@ -57,7 +57,7 @@ Usually, because **no reason**. And here my explanation:
 1. The constructor should return the `DiscoveryInterface` interface, since it is the only type that we should know from outside the package, avoiding any kind of unwanted coupling.
 2. `DiscoveryClient`, since we will not deal with the implementation from outside the package anymore, should be **private**
 3. Therefore, the `legacyPrefix` field should also be **private**.
-In fact, from the right moment we work with the `DiscoveryInterface` interface, making use (from another package) of a struct method/field that is not in the interface would violate the [Liskov Substitution Principle](https:// En.wikipedia.org/wiki/Liskov_substitution_principle).
+In fact, from the right moment we work with the `DiscoveryInterface` interface, making use (from another package) of a struct method/field that is not in the interface would violate the [Liskov Substitution Principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle).
 In case we need read access to that field, we should consider declaring a getter in the interface (See [Effective Go] (https://golang.org/doc/effective_go.html#Getters)).
 
 At a glance, the code would look like:
