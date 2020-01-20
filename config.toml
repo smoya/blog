@@ -42,7 +42,7 @@ enableRobotsTXT = true
 [params.intro]
     header    = "Sergio Moya"
     paragraph = "Once upon a time(), or not."
-    about     = "HipHop movement and Soul music lover. #gopher and Software Engineer at @newrelic."
+    about     = "👶 Papá | 👨‍💻 Platform Engineer at @netlify, formerly @newrelic | 📣 Running @golangbcn | 📢 Co-founder @bcn_eng | 🛩️ Light sport airplane pilot"
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
