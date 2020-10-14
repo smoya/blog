@@ -1,6 +1,6 @@
 baseurl = "https://sergiomoya.me/"
 languageCode = "en-EN"
-title = "smoya2"
+title = "My Site!"
 theme = "hugo-future-imperfect"
 paginate = 10
 disqusShortname = "sergiomoya-me"
